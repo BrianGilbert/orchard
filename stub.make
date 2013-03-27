@@ -8,4 +8,4 @@ projects[drupal][version] = 7.21
 ; Install profile
 projects[orchard][type] = profile
 projects[orchard][download][type] = git
-projects[orchard][download][url] =
+projects[orchard][download][url] = https://github.com/BrianGilbert/orchard.git
